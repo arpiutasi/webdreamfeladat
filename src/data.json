@@ -1,0 +1,96 @@
+{
+    "students": [
+        {
+            "name": "John Romero",
+            "gender": "male",
+            "birthYear": 1967,
+            "grades": [
+                "D", "D", "D", "D", "D"
+            ]
+        },
+        {
+            "name": "John Carmack",
+            "gender": "male",
+            "birthYear": 1970,
+            "grades": [
+                "D", "A", "D", "A", "A"
+            ]
+        },
+        {
+            "name": "Sandy Petersen",
+            "gender": "male",
+            "birthYear": 1955,
+            "grades": [
+                "D", "C", "C", "B", "D"
+            ]
+        },
+        {
+            "name": "Gabe Newell",
+            "gender": "male",
+            "birthYear": 1962,
+            "grades": [
+                "C", "C", "C", "A", "A"
+            ]
+        },
+        {
+            "name": "Adrian Carmack",
+            "gender": "male",
+            "birthYear": 1969,
+            "grades": [
+                "B", "D", "C", "A", "B"
+            ]
+        },
+        {
+            "name": "David Brevik",
+            "gender": "male",
+            "birthYear": 1968,
+            "grades": [
+                "A", "D", "C", "D", "D"
+            ]
+        },
+        {
+            "name": "John Smith",
+            "gender": "male",
+            "birthYear": 1992,
+            "grades": [
+                "B", "D", "C", "B", "D"
+            ]
+        },
+        {
+            "name": "Adam Smith",
+            "gender": "male",
+            "birthYear": 1983,
+            "grades": [
+                "A", "D", "A", "D", "D"
+            ]
+        },
+        {
+            "name": "Anthony Smith",
+            "gender": "male",
+            "birthYear": 1968,
+            "grades": [
+                "A", "C", "C", "D", "A"
+            ]
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Mark Zuckerberg",
+            "gender": "male",
+            "birthYear": 1984,
+            "status": "married"
+        },
+        {
+            "name": "Bill Gates",
+            "gender": "male",
+            "birthYear": 1955,
+            "status": "married"
+        },
+        {
+            "name": "Linus Torvalds",
+            "gender": "male",
+            "birthYear": 1969,
+            "status": "married"
+        }
+    ]
+}
